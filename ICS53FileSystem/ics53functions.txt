@@ -1,0 +1,41 @@
+	//void OpenFileTable();
+	//int find_oft();
+	//void deallocate_oft(int index);
+
+
+	//char* read_descriptor(int no);
+	//void clear_descriptor(int no);
+	//void write_descriptor(int no, char* desc);
+	//int find_empty_descriptor();
+
+
+	//int find_empty_block();
+	//int fgetc(int index);
+	//int fputc(int c, int index);
+	//bool feof(int index);
+
+
+
+	//int search_dir(int index, string symbolic_file_name);
+	//void delete_dir(int index, int start_pos, int len);
+
+
+
+	//int create(string symbolic_file_name);
+	//int open_desc(int desc_no);
+	//int open(string symbolic_file_name);
+	//void format();
+
+
+
+	//int read(int index, char* mem_area, int count);
+	//int write(int index, char value, int count);
+	//int lseek(int index, int pos);
+
+
+	//void close(int index);
+	//int deleteFile(string fileName);
+	//void directory();
+	//void diskdump(int start, int size);
+
+
